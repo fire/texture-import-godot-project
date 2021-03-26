@@ -16,7 +16,8 @@ config/icon="res://icon.png"
 [importer_defaults]
 
 texture={
-@"compress/mode": 2
+@"compress/mode": 2,
+@"mipmaps/generate": true
 }
 
 [rendering]
