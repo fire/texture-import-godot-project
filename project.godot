@@ -21,4 +21,5 @@ texture={
 
 [rendering]
 
+textures/vram_compression/import_etc2=false
 environment/defaults/default_environment="res://default_env.tres"
